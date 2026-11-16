@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Developer with experience building web applications using ReactJS/NextJS, Node.js, Express, <br>and MongoDB. Worked on tourism, cab booking, and e-commerce projects with features like <br>authentication, booking systems, REST APIs, admin panels, and responsive UI development. Passionate <br>about learning new technologies, building practical real-world projects, and continuously improving <br>problem-solving and development skills.<br><br>Skills:<br>Frontend Development (ReactJS  NextJS  HTML  Tailwind CSS)<br>Backend Development (Node.js  Express.js  REST APIs)<br>Database (MongoDB)<br>Tools (Git & GitHub  Postman  VS Code)<br>Deployement (Vercel  Render)
 
 
